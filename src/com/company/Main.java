@@ -12,6 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hallo Daniel Runde 1");
+        System.out.println("VOm lappy geändert");
 
         //Anzahl an Verschiedenen Mustern = Strenght! : (Srength-length)!
         //Anzahl der Verschiedenen Mustern ohne Farbreihenfolge = Strenght! : length!
